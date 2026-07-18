@@ -34,4 +34,4 @@ reconnaissance behavior, mapping activity to MITRE ATT&CK techniques.
 🏅 CompTIA Security+ (SY0-701)
 
 ## Connect
-📫 [LinkedIn](https://linkedin.com/in/akash-reddy-gaddam) · 📧 akashreddy1703@gmail.com
+📫 https://linkedin.com/in/akash-reddy-gaddam · 📧 akashreddy1703@gmail.com
