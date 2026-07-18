@@ -1,4 +1,3 @@
-
 Cybersecurity Graduate | Aspiring SOC Analyst | Incident Response & Threat Detection
 
 ## Summary
