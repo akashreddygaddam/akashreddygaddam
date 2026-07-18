@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Gaddam Akash Reddy 👋
 
-<!--
-**akashreddygaddam/akashreddygaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Graduate | Aspiring SOC Analyst | Incident Response & Threat Detection
 
-Here are some ideas to get you started:
+MS in Cybersecurity, University of Houston. I bring hands-on experience in
+SIEM monitoring, log analysis, and threat detection, along with real-world
+exposure to cybercrime case analysis through a student traineeship with
+Cyberabad/Rachakonda Cyber Crime Police in Hyderabad, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Summary
+Skilled in identifying indicators of compromise, triaging security alerts,
+and applying incident response methodology to investigate and mitigate
+cyber threats. Experienced in analyzing attacker behavior and recommending
+defensive security improvements to strengthen security posture.
+
+## Featured projects
+**[Cowrie SSH Honeypot](https://github.com/akashreddygaddam/cowrie-ssh-honeypot)**
+Deployed a Cowrie SSH honeypot in an isolated lab environment to capture
+real-world attack attempts — attacker IPs, credentials used, and session
+commands. Analyzed logs to identify brute-force login patterns and
+reconnaissance behavior, mapping activity to MITRE ATT&CK techniques.
+
+
+## Skills
+
+**Network Security**
+`Wireshark` `Nmap` `TCP/IP` `PCAP Analysis` `IDS/IPS` `Firewall Rules` `VPN` `DNS Security`
+
+**SIEM & Monitoring**
+`Splunk` `SIEM Monitoring` `Log Analysis` `IOC` `Microsoft Sentinel` `IBM QRadar` `Elastic SIEM`
+
+**Endpoint & OS Security**
+`Linux (Ubuntu/Kali)` `Windows` `Windows Event Logs` `Active Directory` `GPO` `EDR` `Microsoft Defender` `CrowdStrike Falcon`
+
+**Threat Detection & Analysis**
+`Phishing Analysis` `Vulnerability Scanning` `MITRE ATT&CK` `Threat Hunting` `Malware Analysis` `Incident Response`
+
+## Certifications
+🏅 CompTIA Security+ (SY0-701)
+
+## Connect
+📫 [LinkedIn](https://linkedin.com/in/akash-reddy-gaddam) · 📧 akashreddy1703@gmail.com
