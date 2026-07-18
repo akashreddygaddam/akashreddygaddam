@@ -1,7 +1,3 @@
-# Hi there 👋
-
-<img src="https://komarev.com/ghpvc/?username=akashreddygaddam&style=flat-square&color=blue" alt="Profile views"/>
-
 ### Cybersecurity Graduate | Aspiring SOC Analyst | Blue Team & Threat Detection
 
 MS in Cybersecurity, University of Houston. Hands-on experience in SIEM
@@ -35,25 +31,6 @@ Rachakonda Cyber Crime Police in Hyderabad, India.
 **Threat Detection**
 
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-red?style=flat-square)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=akashreddygaddam&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akashreddygaddam&hide_border=true" alt="GitHub streak" height="165"/>
-
----
-
-### 🚀 Featured Project
-
-**[Cowrie SSH Honeypot](https://github.com/akashreddygaddam/cowrie-ssh-honeypot)**
-Deployed a Cowrie SSH honeypot in an isolated lab environment to capture
-real-world attack attempts — attacker IPs, credentials used, and session
-commands. Analyzed logs to identify brute-force login patterns and
-reconnaissance behavior, mapping activity to MITRE ATT&CK techniques.
 
 ---
 
