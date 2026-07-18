@@ -1,13 +1,9 @@
-# Hi, I'm Gaddam Akash Reddy 👋
 
 Cybersecurity Graduate | Aspiring SOC Analyst | Incident Response & Threat Detection
 
-MS in Cybersecurity, University of Houston. I bring hands-on experience in
-SIEM monitoring, log analysis, and threat detection, along with real-world
-exposure to cybercrime case analysis through a student traineeship with
-Cyberabad/Rachakonda Cyber Crime Police in Hyderabad, India.
-
 ## Summary
+MS in Cybersecurity, University of Houston. Hands-on experience in
+SIEM monitoring, log analysis, and threat detection,
 Skilled in identifying indicators of compromise, triaging security alerts,
 and applying incident response methodology to investigate and mitigate
 cyber threats. Experienced in analyzing attacker behavior and recommending
