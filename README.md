@@ -1,9 +1,4 @@
-### Cybersecurity Graduate | Aspiring SOC Analyst | Blue Team & Threat Detection
-
-MS in Cybersecurity, University of Houston. Hands-on experience in SIEM
-monitoring, log analysis, and threat detection, with real-world exposure to
-cybercrime case analysis through a student traineeship with Cyberabad/
-Rachakonda Cyber Crime Police in Hyderabad, India.
+### Cybersecurity Graduate | Aspiring SOC Analyst | Incident Response & Threat Detection
 
 ---
 
