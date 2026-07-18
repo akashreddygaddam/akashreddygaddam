@@ -1,4 +1,4 @@
-### Cybersecurity Graduate | Aspiring SOC Analyst | Incident Response & Threat Detection
+### Cybersecurity Graduate | Cybersecurity Analyst | Incident Response & Threat Detection
 
 ---
 
@@ -31,6 +31,8 @@
 
 ### 🏅 Certifications
 - CompTIA Security+ (SY0-701)
+
+---
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-reddy-gaddam)
