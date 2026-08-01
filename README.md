@@ -13,7 +13,6 @@
 **SIEM & Monitoring**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic%20SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
 
 **Endpoint & OS Security**
