@@ -16,7 +16,7 @@
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic%20SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
-![SIEM Monitoring](https://img.shields.io/badge/Siem%20Monitoring-1F6FEB?style=flat-square)
+![SIEM Monitoring](https://img.shields.io/badge/SIEM%20Monitoring-1F6FEB?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1F6FEB?style=flat-square)
 ![IOC Identification](https://img.shields.io/badge/IOC%20Identification-1F6FEB?style=flat-square)
 
