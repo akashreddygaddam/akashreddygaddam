@@ -9,17 +9,16 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-4B8BBE?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/-IDS%2FIPS-CC2936?style=for-the-badge&logo=cisco&logoColor=white)
-![Port Security](https://img.shields.io/badge/-Port%20Security-CC2936?style=for-the-badge&logo=cisco&logoColor=white)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-CC2936?style=flat-square&logo=cisco&logoColor=white)
+![Port Security](https://img.shields.io/badge/PORT%20SECURITY-CC2936?style=flat-square&logo=cisco&logoColor=white)
 
 **SIEM & Monitoring**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic%20SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
-![Wazuh](https://img.shields.io/badge/-Wazuh-3AB0FF?style=for-the-badge&logoColor=white)
-![SIEM Monitoring](https://img.shields.io/badge/-SIEM%20Monitoring-1F6FEB?style=for-the-badge&logoColor=white)
-![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-1F6FEB?style=for-the-badge&logoColor=white)
-![IOC](https://img.shields.io/badge/-IOC%20Identification-1F6FEB?style=for-the-badge&logoColor=white)
+![SIEM Monitoring](https://img.shields.io/badge/SIEM%20MONITORING-1F6FEB?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/LOG%20ANALYSIS-1F6FEB?style=flat-square)
+![IOC Identification](https://img.shields.io/badge/IOC%20IDENTIFICATION-1F6FEB?style=flat-square)
 
 **Endpoint & OS Security**
 
@@ -31,10 +30,10 @@
 **Threat Detection**
 
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-red?style=flat-square)
-![Vulnerability Scanning](https://img.shields.io/badge/-Vulnerability%20Scanning-8A2BE2?style=for-the-badge&logoColor=white)
-![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-8A2BE2?style=for-the-badge&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-8A2BE2?style=for-the-badge&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-8A2BE2?style=for-the-badge&logoColor=white)
+![Vulnerability Scanning](https://img.shields.io/badge/VULNERABILITY%20SCANNING-8A2BE2?style=flat-square)
+![Threat Hunting](https://img.shields.io/badge/THREAT%20HUNTING-8A2BE2?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/MALWARE%20ANALYSIS-8A2BE2?style=flat-square)
+![Digital Forensics](https://img.shields.io/badge/DIGITAL%20FORENSICS-8A2BE2?style=flat-square)
 
 ---
 
