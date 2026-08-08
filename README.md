@@ -12,6 +12,13 @@
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-CC2936?style=flat-square&logo=cisco&logoColor=white)
 ![Port Security](https://img.shields.io/badge/Port%20Security-CC2936?style=flat-square&logo=cisco&logoColor=white)
 
+**Endpoint & OS Security**
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
 **SIEM & Monitoring**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
@@ -19,13 +26,6 @@
 ![SIEM Monitoring](https://img.shields.io/badge/SIEM%20Monitoring-1F6FEB?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1F6FEB?style=flat-square)
 ![IOC Identification](https://img.shields.io/badge/IOC%20Identification-1F6FEB?style=flat-square)
-
-**Endpoint & OS Security**
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **Threat Detection**
 
