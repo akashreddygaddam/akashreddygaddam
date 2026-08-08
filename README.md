@@ -18,11 +18,15 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CrowdStrike Falcon](https://img.shields.io/badge/-CrowdStrike%20Falcon-FC0000?style=flat-square&logo=crowdstrike&logoColor=white)
+![Sysmon](https://img.shields.io/badge/-Sysmon-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 **SIEM & Monitoring**
 
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic%20SIEM-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-1A73E8?style=flat-square&logo=wazuh&logoColor=white)
+![Elastic Stack (ELK)](https://img.shields.io/badge/-Elastic%20Stack%20(ELK)-005571?style=flat-square&logo=elasticstack&logoColor=white)
 ![SIEM Monitoring](https://img.shields.io/badge/SIEM%20Monitoring-1F6FEB?style=flat-square)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1F6FEB?style=flat-square)
 ![IOC Identification](https://img.shields.io/badge/IOC%20Identification-1F6FEB?style=flat-square)
