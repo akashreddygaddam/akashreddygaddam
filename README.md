@@ -31,7 +31,7 @@
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1F6FEB?style=flat-square)
 ![IOC Identification](https://img.shields.io/badge/IOC%20Identification-1F6FEB?style=flat-square)
 
-**Threat Detection**
+**Threat Detection and Analysis**
 
 ![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-red?style=flat-square)
 ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability%20Scanning-8A2BE2?style=flat-square)
