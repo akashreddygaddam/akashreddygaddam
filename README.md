@@ -1,4 +1,4 @@
-### Cybersecurity Graduate | Cybersecurity Analyst | Incident Response & Threat Detection
+### Cybersecurity Graduate | Security Engineer | Incident Response & Threat Detection
 
 ---
 
